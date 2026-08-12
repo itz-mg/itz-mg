@@ -12,6 +12,7 @@ Hi, I'm **itz-mg**. This README is tuned for **student** with a GitHub visual sy
     <img src="https://www.gitskins.com/api/section/hero?username=itz-mg&theme=github-dark" alt="itz-mg hero section" />
   </picture>
 </p>
+
 ## About Me
 Shapes the short profile story and positioning.
 <p align="center">
@@ -20,6 +21,7 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/about?username=itz-mg&theme=github-dark" alt="itz-mg about section" />
   </picture>
 </p>
+
 ## Skills
 > Editing this section in the inspector.
 Selected stack and skill badges will be generated from the GitHub profile and README strategy.
@@ -29,6 +31,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=itz-mg&theme=github-dark" alt="itz-mg stack section" />
   </picture>
 </p>
+
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
@@ -37,6 +40,7 @@ GitSkins stat widgets will use the **GitHub** theme.
     <img src="https://www.gitskins.com/api/section/stats?username=itz-mg&theme=github-dark" alt="itz-mg stats section" />
   </picture>
 </p>
+
 ## Projects
 Highlights repositories as proof of work.
 <p align="center">
@@ -45,6 +49,7 @@ Highlights repositories as proof of work.
     <img src="https://www.gitskins.com/api/section/projects?username=itz-mg&theme=github-dark" alt="itz-mg projects section" />
   </picture>
 </p>
+
 ## Heatmap
 Animated year-long contribution calendar.
 ## Connect
