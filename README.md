@@ -1,8 +1,5 @@
 # itz-mg
 
-> Learning velocity and project potential.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 Hi, I'm **itz-mg**. This README is tuned for **student** with a GitHub visual system.
@@ -52,6 +49,7 @@ Highlights repositories as proof of work.
 
 ## Heatmap
 Animated year-long contribution calendar.
+
 ## Connect
 Website: https://manolisg.vercel.app · LinkedIn: in/manolisg · Email: emgeorgat11@gmail.com
 <p align="center">
